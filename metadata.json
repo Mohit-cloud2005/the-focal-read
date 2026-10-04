@@ -1,0 +1,6 @@
+{
+  "name": "The Focal READ",
+  "description": "A modern live news dashboard featuring real-time global news categories, advanced search, and sleek UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
